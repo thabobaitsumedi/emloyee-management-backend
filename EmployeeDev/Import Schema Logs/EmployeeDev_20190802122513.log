@@ -1,0 +1,85 @@
+2019/08/02 14:25:13	This log contains information about the import schema operation into project 'EmployeeDev' on computer 'DVTLFH9BR72' by user 'TBaitsumedi'.
+2019/08/02 14:25:13	Import of database schema has started.
+2019/08/02 14:25:19	Gathering database credentials
+2019/08/02 14:25:19	Gathering database options
+2019/08/02 14:25:19	Gathering generic database scoped configuration option
+2019/08/02 14:25:19	Gathering users
+2019/08/02 14:25:19	Gathering roles
+2019/08/02 14:25:19	Gathering application roles
+2019/08/02 14:25:19	Gathering role memberships
+2019/08/02 14:25:19	Gathering filegroups
+2019/08/02 14:25:19	Gathering full-text catalogs
+2019/08/02 14:25:19	Gathering assemblies
+2019/08/02 14:25:19	Gathering certificates
+2019/08/02 14:25:19	Gathering asymmetric keys
+2019/08/02 14:25:19	Gathering symmetric keys
+2019/08/02 14:25:19	Gathering encrypted symmetric keys
+2019/08/02 14:25:19	Gathering schemas
+2019/08/02 14:25:19	Gathering XML schema collections
+2019/08/02 14:25:19	Gathering user-defined data types
+2019/08/02 14:25:19	Gathering user-defined types
+2019/08/02 14:25:19	Gathering table types
+2019/08/02 14:25:19	Gathering unique keys for table types
+2019/08/02 14:25:19	Gathering primary keys for table types
+2019/08/02 14:25:19	Gathering indexes for table types
+2019/08/02 14:25:19	Gathering check constraints for table types
+2019/08/02 14:25:19	Gathering default constraints for table types
+2019/08/02 14:25:19	Gathering partition functions
+2019/08/02 14:25:19	Gathering partition schemes
+2019/08/02 14:25:19	Gathering functions
+2019/08/02 14:25:19	Gathering encrypted functions
+2019/08/02 14:25:19	Gathering aggregates
+2019/08/02 14:25:19	Gathering procedures
+2019/08/02 14:25:19	Gathering encrypted procedures
+2019/08/02 14:25:19	Gathering tables
+2019/08/02 14:25:19	Gathering primary keys
+2019/08/02 14:25:19	Gathering unique constraints
+2019/08/02 14:25:19	Gathering foreign keys
+2019/08/02 14:25:19	Gathering default constraints
+2019/08/02 14:25:19	Gathering check constraints
+2019/08/02 14:25:19	Gathering views
+2019/08/02 14:25:19	Gathering encrypted views
+2019/08/02 14:25:19	Gathering indexes
+2019/08/02 14:25:19	Gathering statistics
+2019/08/02 14:25:19	Gathering full-text index stoplists
+2019/08/02 14:25:19	Gathering search property lists
+2019/08/02 14:25:19	Gathering search properties
+2019/08/02 14:25:19	Gathering full-text indexes
+2019/08/02 14:25:19	Gathering column store indexes
+2019/08/02 14:25:19	Gathering spatial indexes
+2019/08/02 14:25:19	Gathering XML indexes
+2019/08/02 14:25:19	Gathering Selective XML indexes
+2019/08/02 14:25:19	Gathering encrypted triggers
+2019/08/02 14:25:19	Gathering triggers
+2019/08/02 14:25:19	Gathering encrypted and clr ddl triggers
+2019/08/02 14:25:19	Gathering ddl triggers
+2019/08/02 14:25:19	Gathering synonyms
+2019/08/02 14:25:19	Gathering defaults
+2019/08/02 14:25:19	Gathering data constraint uddt bindings
+2019/08/02 14:25:19	Gathering rules
+2019/08/02 14:25:19	Gathering data constraint uddt bindings
+2019/08/02 14:25:19	Gathering message types
+2019/08/02 14:25:19	Gathering queues
+2019/08/02 14:25:19	Gathering contracts
+2019/08/02 14:25:19	Gathering services
+2019/08/02 14:25:19	Gathering event notifications
+2019/08/02 14:25:19	Gathering remote service bindings
+2019/08/02 14:25:19	Gathering broker priorities
+2019/08/02 14:25:19	Gathering signatures
+2019/08/02 14:25:19	Gathering data compression options
+2019/08/02 14:25:19	Gathering sequence types
+2019/08/02 14:25:19	Gathering security policies
+2019/08/02 14:25:19	Gather column encryption keys
+2019/08/02 14:25:19	Gathering column master keys
+2019/08/02 14:25:19	Gathering external data sources
+2019/08/02 14:25:19	Gathering external file formats
+2019/08/02 14:25:19	Gathering external tables
+2019/08/02 14:25:19	Gathering extended properties
+2019/08/02 14:25:19	Gathering credentials
+2019/08/02 14:25:19	Gathering logins
+2019/08/02 14:25:19	Gathering server audits
+2019/08/02 14:25:19	Scanning project for duplicate elements
+2019/08/02 14:25:20	Finished duplicate element processing
+2019/08/02 14:25:20	Finished importing database.
+2019/08/02 14:25:20	A summary of the import was saved to the following location: C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\Import Schema Logs\EmployeeDev_20190802122513.log
+2019/08/02 14:25:20	Click Finish to continue...

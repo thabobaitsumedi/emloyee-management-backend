@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Data Source=.;Initial Catalog=EmployeeDev;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -o Entities

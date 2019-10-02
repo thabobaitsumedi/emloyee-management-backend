@@ -1,0 +1,14 @@
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Application.deps.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Application.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Application.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.csprojAssemblyReference.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Domain.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Persistence.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Persistence.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\bin\Debug\netcoreapp2.2\EmployeeManagement.Domain.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp2.2\EmployeeManagement.Application.csproj.CopyComplete
