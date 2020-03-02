@@ -16,6 +16,6 @@ namespace EmployeeManagement.Application.Commands
 
         public int PostalCode { get; set; }
 
-        public int addressTypeId { get; set; }
+        public int AddressTypeId { get; set; }
     }
 }

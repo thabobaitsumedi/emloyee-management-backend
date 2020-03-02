@@ -3,7 +3,6 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\Empl
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.runtimeconfig.dev.json
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.pdb
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.RazorAssemblyInfo.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.RazorAssemblyInfo.cs
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.AssemblyInfoInputs.cache
@@ -20,3 +19,6 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\Empl
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.WebAPI.xml
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.Application.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\EmployeeManagement.Application.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

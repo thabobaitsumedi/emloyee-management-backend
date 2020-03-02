@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "0d660345cb18351eef2b7eb6445a87b42e3aa764"
+    "signature": ""
   },
   "compilationOptions": {
     "defines": [
@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP2_2"
     ],
-    "languageVersion": "",
+    "languageVersion": "7.3",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -27,7 +27,7 @@
           "EmployeeManagement.Application": "1.0.0",
           "EmployeeManagement.Persistence": "1.0.0",
           "FluentValidation.AspNetCore": "8.4.0",
-          "MediatR": "7.0.0",
+          "MediatR": "8.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "7.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -42,14 +42,14 @@
           "EmployeeManagement.WebAPI.dll": {}
         }
       },
-      "FluentValidation/8.4.0": {
+      "FluentValidation/8.6.2": {
         "dependencies": {
           "System.ComponentModel.Annotations": "4.5.0"
         },
         "runtime": {
           "lib/netstandard2.0/FluentValidation.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.4.0.0"
+            "fileVersion": "8.6.2.0"
           }
         },
         "compile": {
@@ -58,7 +58,7 @@
       },
       "FluentValidation.AspNetCore/8.4.0": {
         "dependencies": {
-          "FluentValidation": "8.4.0",
+          "FluentValidation": "8.6.2",
           "FluentValidation.DependencyInjectionExtensions": "8.4.0",
           "Microsoft.AspNetCore.Mvc": "2.2.0"
         },
@@ -74,7 +74,7 @@
       },
       "FluentValidation.DependencyInjectionExtensions/8.4.0": {
         "dependencies": {
-          "FluentValidation": "8.4.0",
+          "FluentValidation": "8.6.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
         },
         "runtime": {
@@ -87,11 +87,11 @@
           "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
-      "MediatR/7.0.0": {
+      "MediatR/8.0.1": {
         "runtime": {
           "lib/netstandard2.0/MediatR.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.0.0"
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
           }
         },
         "compile": {
@@ -100,7 +100,7 @@
       },
       "MediatR.Extensions.Microsoft.DependencyInjection/7.0.0": {
         "dependencies": {
-          "MediatR": "7.0.0",
+          "MediatR": "8.0.1",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
         },
         "runtime": {
@@ -699,8 +699,8 @@
       "EmployeeManagement.Application/1.0.0": {
         "dependencies": {
           "EmployeeManagement.Persistence": "1.0.0",
-          "FluentValidation": "8.4.0",
-          "MediatR": "7.0.0"
+          "FluentValidation": "8.6.2",
+          "MediatR": "8.0.1"
         },
         "runtime": {
           "EmployeeManagement.Application.dll": {}
@@ -711,7 +711,7 @@
       },
       "EmployeeManagement.Domain/1.0.0": {
         "dependencies": {
-          "MediatR": "7.0.0"
+          "MediatR": "8.0.1"
         },
         "runtime": {
           "EmployeeManagement.Domain.dll": {}
@@ -723,7 +723,7 @@
       "EmployeeManagement.Persistence/1.0.0": {
         "dependencies": {
           "EmployeeManagement.Domain": "1.0.0",
-          "MediatR": "7.0.0",
+          "MediatR": "8.0.1",
           "Microsoft.EntityFrameworkCore": "2.2.6",
           "Microsoft.EntityFrameworkCore.Design": "2.2.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
@@ -3804,12 +3804,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FluentValidation/8.4.0": {
+    "FluentValidation/8.6.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/VApywgD2sqD3aB1tzub6SIItmwxXN0D5yAiP3kuFHmjYO1W+Ryi531/m4O03/hlfcYrBgewDJn7Jd1Xk0vTdw==",
-      "path": "fluentvalidation/8.4.0",
-      "hashPath": "fluentvalidation.8.4.0.nupkg.sha512"
+      "sha512": "sha512-N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
+      "path": "fluentvalidation/8.6.2",
+      "hashPath": "fluentvalidation.8.6.2.nupkg.sha512"
     },
     "FluentValidation.AspNetCore/8.4.0": {
       "type": "package",
@@ -3825,12 +3825,12 @@
       "path": "fluentvalidation.dependencyinjectionextensions/8.4.0",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.8.4.0.nupkg.sha512"
     },
-    "MediatR/7.0.0": {
+    "MediatR/8.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
-      "path": "mediatr/7.0.0",
-      "hashPath": "mediatr.7.0.0.nupkg.sha512"
+      "sha512": "sha512-nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "path": "mediatr/8.0.1",
+      "hashPath": "mediatr.8.0.1.nupkg.sha512"
     },
     "MediatR.Extensions.Microsoft.DependencyInjection/7.0.0": {
       "type": "package",
@@ -5971,7 +5971,7 @@
     "System.Xml.XmlSerializer/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },

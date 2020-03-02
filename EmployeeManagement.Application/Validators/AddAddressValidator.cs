@@ -16,7 +16,7 @@ namespace EmployeeManagement.Application.Validators
             RuleFor(address => address.PostalCode)
                 .NotEmpty().WithMessage("Please ensure you have entered your postal code");
 
-            RuleFor(address => address.addressTypeId)
+            RuleFor(address => address.AddressTypeId)
                 .NotEmpty().WithMessage("Please ensure you have selected your address type");
         }
     }

@@ -7,7 +7,6 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\Empl
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\bin\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\bin\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.pdb
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\obj\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.csprojAssemblyReference.cache
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\obj\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\obj\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.AssemblyInfoInputs.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\obj\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.AssemblyInfo.cs
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.UnitTests\obj\Debug\netcoreapp2.2\EmployeeManagement.UnitTests.dll

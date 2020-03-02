@@ -41,7 +41,7 @@ namespace EmployeeManagement.Persistence.ContextClass
             {
                 entity.Property(e => e.AddressId).HasColumnName("AddressID");
 
-                entity.Property(e => e.AddressTypeId).HasColumnName("AddressTypeID");
+                entity.Property(e => e.AddressTypeId).HasColumnName("AddressTypeId");
 
                 entity.Property(e => e.Line1)
                     .IsRequired()
@@ -60,7 +60,7 @@ namespace EmployeeManagement.Persistence.ContextClass
 
             modelBuilder.Entity<AddressType>(entity =>
             {
-                entity.Property(e => e.AddressTypeId).HasColumnName("AddressTypeID");
+                entity.Property(e => e.AddressTypeId).HasColumnName("AddressTypeId");
 
                 entity.Property(e => e.AddressDescription)
                     .IsRequired()

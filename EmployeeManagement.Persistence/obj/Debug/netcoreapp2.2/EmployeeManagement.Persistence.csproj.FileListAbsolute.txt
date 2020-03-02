@@ -1,7 +1,6 @@
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp2.2\EmployeeManagement.Persistence.deps.json
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp2.2\EmployeeManagement.Persistence.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp2.2\EmployeeManagement.Persistence.pdb
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp2.2\EmployeeManagement.Persistence.csproj.CoreCompileInputs.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp2.2\EmployeeManagement.Persistence.AssemblyInfoInputs.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp2.2\EmployeeManagement.Persistence.AssemblyInfo.cs
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp2.2\EmployeeManagement.Persistence.dll

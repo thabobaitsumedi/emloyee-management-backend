@@ -30,7 +30,7 @@ namespace EmployeeManagement.Application.Commands
                     Line1 = request.Line1,
                     Line2 = request.Line2,
                     PostalCode = request.PostalCode,
-                    AddressTypeId = request.addressTypeId
+                    AddressTypeId = request.AddressTypeId
                 };
 
                 await _context.Address.AddAsync(newAddress);

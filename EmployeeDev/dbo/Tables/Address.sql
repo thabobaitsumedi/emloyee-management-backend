@@ -3,8 +3,8 @@
     [Line1]         VARCHAR (255) NOT NULL,
     [Line2]         VARCHAR (255) NULL,
     [PostalCode]    INT           NOT NULL,
-    [AddressTypeID] INT           NULL,
+    [AddressTypeId] INT           NULL,
     PRIMARY KEY CLUSTERED ([AddressID] ASC),
-    FOREIGN KEY ([AddressTypeID]) REFERENCES [dbo].[AddressType] ([AddressTypeID]) ON DELETE CASCADE
+    FOREIGN KEY ([AddressTypeId]) REFERENCES [dbo].[AddressType] ([AddressTypeId]) ON DELETE CASCADE
 );
 

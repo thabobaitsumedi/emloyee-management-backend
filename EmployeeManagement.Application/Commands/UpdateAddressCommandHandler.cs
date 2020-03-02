@@ -44,7 +44,7 @@ namespace EmployeeManagement.Application.Commands
             address.Line1 = request.Line1;
             address.Line2 = request.Line2;
             address.PostalCode = request.PostalCode;
-            address.AddressTypeId = request.addressTypeId;
+            address.AddressTypeId = request.AddressTypeId;
 
             return address;
         }
