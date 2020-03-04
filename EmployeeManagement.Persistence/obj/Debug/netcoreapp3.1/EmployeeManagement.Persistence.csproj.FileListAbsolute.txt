@@ -1,0 +1,13 @@
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.deps.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.runtimeconfig.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.runtimeconfig.dev.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Domain.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\bin\Debug\netcoreapp3.1\EmployeeManagement.Domain.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.csprojAssemblyReference.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.AssemblyInfo.cs
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.csproj.CopyComplete
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Persistence\obj\Debug\netcoreapp3.1\EmployeeManagement.Persistence.pdb

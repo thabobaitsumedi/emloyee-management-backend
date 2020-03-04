@@ -1,13 +1,10 @@
 ﻿using EmployeeManagement.Application.Messages;
+using EmployeeManagement.Domain.Entities;
 using EmployeeManagement.Persistence.ContextClass;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using EmployeeManagement.Domain.Entities;
 
 namespace EmployeeManagement.Application.Commands
 {
@@ -26,7 +23,7 @@ namespace EmployeeManagement.Application.Commands
             var dobExist = await _context.Employee.FirstOrDefaultAsync(emp => emp.DoB == request.DoB);
             var response = new AddEmployeeCommandResponse();
 
-            if(emailExist != null && dobExist != null)
+            if (emailExist != null && dobExist != null)
             {
                 response.Message = "This Employee already Exist!";
             }

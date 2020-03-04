@@ -2,9 +2,6 @@
 using EmployeeManagement.Domain.Entities;
 using EmployeeManagement.Persistence.ContextClass;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -23,7 +20,7 @@ namespace EmployeeManagement.Application.Commands
         {
             var response = new AddAddressCommandResponse();
 
-            if(request!= null)
+            if (request != null)
             {
                 var newAddress = new Address()
                 {
@@ -42,7 +39,7 @@ namespace EmployeeManagement.Application.Commands
             {
                 response.Message = "Could not add the address!";
             }
-            
+
             return response;
         }
     }

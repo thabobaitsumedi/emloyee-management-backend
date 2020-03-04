@@ -1,13 +1,10 @@
 ﻿using EmployeeManagement.Application.Messages;
 using EmployeeManagement.Persistence.ContextClass;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace EmployeeManagement.Application.Queries
 {
@@ -22,14 +19,15 @@ namespace EmployeeManagement.Application.Queries
 
         public async Task<GetManagersQueryResponse> Handle(GetManagersQuery request, CancellationToken cancellationToken)
         {
-             var response = new GetManagersQueryResponse()
+            var response = new GetManagersQueryResponse()
             {
-                Managers = await (from manager in _context.Manager select
-                                   new ManagerResponse()
-                                   {
-                                       ManagerId = manager.ManagerId,
-                                       ManagerName = manager.ManagerName
-                                   }).ToListAsync()
+                Managers = await (from manager in _context.Manager
+                                  select
+  new ManagerResponse()
+  {
+      ManagerId = manager.ManagerId,
+      ManagerName = manager.ManagerName
+  }).ToListAsync()
             };
 
             return response;

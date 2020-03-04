@@ -43,11 +43,11 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.0.1, )"
+              "version": "[16.5.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -57,11 +57,13 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.1, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.1, )"
             }
           },
           "imports": [

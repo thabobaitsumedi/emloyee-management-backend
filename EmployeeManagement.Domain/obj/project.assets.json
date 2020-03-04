@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "MediatR/7.0.0": {
+      "MediatR/8.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/MediatR.dll": {}
@@ -220,16 +220,19 @@
     }
   },
   "libraries": {
-    "MediatR/7.0.0": {
-      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+    "MediatR/8.0.1": {
+      "sha512": "nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
       "type": "package",
-      "path": "mediatr/7.0.0",
+      "path": "mediatr/8.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "gradient_128x128.png",
         "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
         "lib/netstandard2.0/MediatR.dll",
-        "mediatr.7.0.0.nupkg.sha512",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.8.0.1.nupkg.sha512",
         "mediatr.nuspec"
       ]
     },
@@ -704,7 +707,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "MediatR >= 7.0.0",
+      "MediatR >= 8.0.1",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -751,7 +754,7 @@
         "dependencies": {
           "MediatR": {
             "target": "Package",
-            "version": "[7.0.0, )"
+            "version": "[8.0.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

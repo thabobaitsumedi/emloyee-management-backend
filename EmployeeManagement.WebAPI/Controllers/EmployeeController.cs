@@ -1,21 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using EmployeeManagement.Application.Commands;
+﻿using EmployeeManagement.Application.Commands;
 using EmployeeManagement.Application.Messages;
 using EmployeeManagement.Application.Queries;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Threading.Tasks;
 
 namespace EmployeeManagement.WebAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class EmployeeController : ControllerBase
     {
         private readonly IMediator _mediator;
+
         public EmployeeController(IMediator _mediator)
         {
             this._mediator = _mediator;
@@ -42,7 +40,7 @@ namespace EmployeeManagement.WebAPI.Controllers
         }
 
         /// <summary>
-        /// Get all addrress types
+        /// Get all address types
         /// </summary>
         /// <returns></returns>
         [HttpGet("GetAddressTypes")]

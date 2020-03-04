@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeManagement.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetAllEmployees">
+            <summary>
+            Get available employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetGenders">
+            <summary>
+            Get all genders
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetAddressTypes">
+            <summary>
+            Get all address types
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetDepartments">
+            <summary>
+            Get all departments
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetJobs">
+            <summary>
+            Get all job types
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetManagers">
+            <summary>
+            Get all managers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetAddressById(System.Int32)">
+            <summary>
+            Search for specific address
+            </summary>
+            <param name="addressId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetEmployeeById(System.Guid)">
+            <summary>
+            Search for specific employee
+            </summary>
+            <param name="employeeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.AddEmployee(EmployeeManagement.Application.Commands.AddEmployeeCommand)">
+            <summary>
+            Add new employee
+            </summary>
+            <param name="employee"></param>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.AddAddress(EmployeeManagement.Application.Commands.AddAddressCommand)">
+            <summary>
+            Add new address
+            </summary>
+            <param name="address"></param>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.UpdateEmployee(EmployeeManagement.Application.Commands.UpdateEmployeeCommand)">
+            <summary>
+            Update specific employee
+            </summary>
+            <param name="employee"></param>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.UpdateAddress(EmployeeManagement.Application.Commands.UpdateAddressCommand)">
+            <summary>
+            Update specific address
+            </summary>
+            <param name="address"></param>
+        </member>
+        <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.DeleteEmployee(System.Guid)">
+            <summary>
+            Deletes specific employee
+            </summary>
+            <param name="employeeId"></param>
+        </member>
+    </members>
+</doc>

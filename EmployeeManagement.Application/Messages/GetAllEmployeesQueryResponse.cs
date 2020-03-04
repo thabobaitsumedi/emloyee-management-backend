@@ -1,7 +1,5 @@
-﻿using EmployeeManagement.Domain.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace EmployeeManagement.Application.Messages
 {
@@ -33,6 +31,5 @@ namespace EmployeeManagement.Application.Messages
         public string JobTitle { get; set; }
         public string DepartmentName { get; set; }
         public string GenderDescription { get; set; }
-
     }
 }

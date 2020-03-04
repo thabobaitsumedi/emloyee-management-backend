@@ -7,7 +7,6 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\User
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\bin\Debug\netcoreapp2.2\UserManagement.WebAPI.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\bin\Debug\netcoreapp2.2\UserManagement.WebAPI.pdb
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\bin\Debug\netcoreapp2.2\UserManagement.WebAPI.xml
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\obj\Debug\netcoreapp2.2\UserManagement.WebAPI.csprojAssemblyReference.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\obj\Debug\netcoreapp2.2\UserManagement.WebAPI.RazorAssemblyInfo.cache
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\obj\Debug\netcoreapp2.2\UserManagement.WebAPI.RazorAssemblyInfo.cs
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\UserManagement.WebAPI\obj\Debug\netcoreapp2.2\UserManagement.WebAPI.AssemblyInfoInputs.cache

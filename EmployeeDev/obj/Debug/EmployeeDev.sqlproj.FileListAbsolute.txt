@@ -1,6 +1,9 @@
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\bin\Debug\EmployeeDev.dacpac
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\bin\Debug\EmployeeDev.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\bin\Debug\EmployeeDev.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\Model.xml
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\refactor.xml
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\postdeploy.sql
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\predeploy.sql
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\EmployeeDev.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\EmployeeDev.pdb
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeDev\obj\Debug\EmployeeDev.sqlprojAssemblyReference.cache

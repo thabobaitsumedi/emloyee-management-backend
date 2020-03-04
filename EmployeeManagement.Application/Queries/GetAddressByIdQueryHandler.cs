@@ -1,9 +1,6 @@
 ﻿using EmployeeManagement.Application.Messages;
 using EmployeeManagement.Persistence.ContextClass;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 

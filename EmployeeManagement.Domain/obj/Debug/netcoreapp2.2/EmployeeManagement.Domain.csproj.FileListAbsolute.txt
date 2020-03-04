@@ -5,4 +5,3 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\Empl
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\netcoreapp2.2\EmployeeManagement.Domain.AssemblyInfo.cs
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\netcoreapp2.2\EmployeeManagement.Domain.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\netcoreapp2.2\EmployeeManagement.Domain.pdb
-C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\netcoreapp2.2\EmployeeManagement.Domain.csprojAssemblyReference.cache

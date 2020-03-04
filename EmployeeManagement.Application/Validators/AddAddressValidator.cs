@@ -1,8 +1,5 @@
-﻿using FluentValidation;
-using EmployeeManagement.Application.Commands;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using EmployeeManagement.Application.Commands;
+using FluentValidation;
 
 namespace EmployeeManagement.Application.Validators
 {

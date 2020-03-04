@@ -40,7 +40,7 @@ namespace EmployeeManagement.Application.Validators
 
             RuleFor(emp => emp.HireDate)
                 .NotEmpty().WithMessage("Please Select your Hire Date");
-            
+
             RuleFor(emp => emp.EmailAddress)
                .NotEmpty().WithMessage("Please Enter your valid email address")
                .EmailAddress();

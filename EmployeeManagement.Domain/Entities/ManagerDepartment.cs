@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace EmployeeManagement.Domain.Entities
+﻿namespace EmployeeManagement.Domain.Entities
 {
     public partial class ManagerDepartment
     {

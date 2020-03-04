@@ -18,7 +18,7 @@
         </member>
         <member name="M:EmployeeManagement.WebAPI.Controllers.EmployeeController.GetAddressTypes">
             <summary>
-            Get all addrress types
+            Get all address types
             </summary>
             <returns></returns>
         </member>

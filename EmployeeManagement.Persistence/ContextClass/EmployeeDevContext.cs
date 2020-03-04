@@ -1,7 +1,5 @@
-﻿using System;
-using EmployeeManagement.Domain.Entities;
+﻿using EmployeeManagement.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace EmployeeManagement.Persistence.ContextClass
 {

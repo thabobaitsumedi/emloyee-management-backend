@@ -1,9 +1,6 @@
 ﻿using EmployeeManagement.Application.Messages;
 using EmployeeManagement.Persistence.ContextClass;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -23,7 +20,7 @@ namespace EmployeeManagement.Application.Commands
             var employee = await _context.Employee.FindAsync(request.EmployeeId);
             var response = new DeleteEmployeeCommandResponse();
 
-            if(employee != null)
+            if (employee != null)
             {
                 _context.Employee.Remove(employee);
                 await _context.SaveChangesAsync();
