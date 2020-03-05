@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
+      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
       "projectName": "EmployeeManagement.Common",
-      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
+      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
       "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Common\\obj\\",
+      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

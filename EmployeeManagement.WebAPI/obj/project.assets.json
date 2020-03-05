@@ -89,15 +89,6 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.2.0": {
-        "type": "package",
-        "build": {
-          "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/Microsoft.AspNetCore.Razor.Design.props": {}
-        }
-      },
       "Microsoft.AspNetCore.Razor.Language/3.1.0": {
         "type": "package",
         "compile": {
@@ -2776,31 +2767,6 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Razor.xml",
         "microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
         "microsoft.aspnetcore.razor.nuspec"
-      ]
-    },
-    "Microsoft.AspNetCore.Razor.Design/2.2.0": {
-      "sha512": "VLWK+ZtMMNukY6XjxYHc7mz33vkquoEzQJHm/LCF5REVxIaexLr+UTImljRRJBdUDJluDAQwU+59IX0rFDfURA==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.razor.design/2.2.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets",
-        "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props",
-        "buildMultiTargeting/Microsoft.AspNetCore.Razor.Design.props",
-        "microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
-        "microsoft.aspnetcore.razor.design.nuspec",
-        "tools/Microsoft.AspNetCore.Razor.Language.dll",
-        "tools/Microsoft.CodeAnalysis.CSharp.dll",
-        "tools/Microsoft.CodeAnalysis.Razor.dll",
-        "tools/Microsoft.CodeAnalysis.dll",
-        "tools/Newtonsoft.Json.dll",
-        "tools/runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
-        "tools/runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
-        "tools/rzc.deps.json",
-        "tools/rzc.dll",
-        "tools/rzc.runtimeconfig.json"
       ]
     },
     "Microsoft.AspNetCore.Razor.Language/3.1.0": {
@@ -8532,7 +8498,6 @@
       "FluentValidation.AspNetCore >= 8.6.2",
       "MediatR >= 8.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
-      "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
       "Swashbuckle.AspNetCore >= 5.0.0"
     ]
@@ -8544,11 +8509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
       "projectName": "EmployeeManagement.WebAPI",
-      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
       "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8567,11 +8532,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
+            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
             },
-            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
-              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
+            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
+              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
             }
           }
         }
@@ -8596,10 +8561,6 @@
           "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[8.0.0, )"
-          },
-          "Microsoft.AspNetCore.Razor.Design": {
-            "target": "Package",
-            "version": "[2.2.0, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",

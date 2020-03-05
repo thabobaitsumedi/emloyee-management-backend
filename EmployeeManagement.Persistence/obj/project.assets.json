@@ -4990,11 +4990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
       "projectName": "EmployeeManagement.Persistence",
-      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
       "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5013,8 +5013,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
+            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
             }
           }
         }

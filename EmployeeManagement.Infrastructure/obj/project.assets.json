@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
       "projectName": "EmployeeManagement.Infrastructure",
-      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

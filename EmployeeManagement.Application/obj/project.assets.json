@@ -5007,11 +5007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
       "projectName": "EmployeeManagement.Application",
-      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+      "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
       "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5030,8 +5030,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
-              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
+            "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
+              "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
             }
           }
         }

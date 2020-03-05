@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj": {}
+    "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj": {
+    "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj",
         "projectName": "UserManagement.WebAPI",
-        "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj",
+        "projectPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\UserManagement.WebAPI\\UserManagement.WebAPI.csproj",
         "packagesPath": "C:\\Users\\TBaitsumedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement\\UserManagement.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\TBaitsumedi\\source\\repos\\EmployeeManagementCqrs\\EmployeeManagement.BackEnd\\employee-management-backend\\UserManagement.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,24 +39,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -69,6 +60,14 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }

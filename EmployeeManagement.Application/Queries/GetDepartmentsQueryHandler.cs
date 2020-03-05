@@ -25,8 +25,8 @@ namespace EmployeeManagement.Application.Queries
                                      select
 new DepartmentResponse()
 {
-DepartmentId = department.DepartmentId,
-DepartmentName = department.DepartmentName
+    DepartmentId = department.DepartmentId,
+    DepartmentName = department.DepartmentName
 }).ToListAsync()
             };
 

@@ -11,3 +11,16 @@ C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\Empl
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.csproj.CopyComplete
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.dll
 C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Application.deps.json
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Application.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Application.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Domain.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Persistence.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\bin\Debug\netcoreapp3.1\EmployeeManagement.Domain.pdb
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.csprojAssemblyReference.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.csproj.CopyComplete
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.dll
+C:\Users\TBaitsumedi\source\repos\EmployeeManagementCqrs\EmployeeManagement.BackEnd\employee-management-backend\EmployeeManagement.Application\obj\Debug\netcoreapp3.1\EmployeeManagement.Application.pdb

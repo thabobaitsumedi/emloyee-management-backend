@@ -25,8 +25,8 @@ namespace EmployeeManagement.Application.Queries
                                       select
 new AddressTypeResponse()
 {
-  AddressTypeId = address.AddressTypeId,
-  AddressDescription = address.AddressDescription
+    AddressTypeId = address.AddressTypeId,
+    AddressDescription = address.AddressDescription
 }).ToListAsync()
             };
 

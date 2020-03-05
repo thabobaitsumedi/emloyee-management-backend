@@ -28,7 +28,7 @@ namespace EmployeeManagement.WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             //Register fluent validations
-            services.AddMvc().AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<AddEmployeeCommand>());
+            services.AddMvcCore().AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<AddEmployeeCommand>());
 
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>

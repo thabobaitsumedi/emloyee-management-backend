@@ -29,7 +29,6 @@
           "FluentValidation.AspNetCore": "8.6.2",
           "MediatR": "8.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
-          "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.1",
           "Swashbuckle.AspNetCore": "5.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -391,7 +390,6 @@
           "Microsoft.AspNetCore.Html.Abstractions": "2.2.0"
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.2.0": {},
       "Microsoft.AspNetCore.Razor.Language/3.1.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {
@@ -3949,13 +3947,6 @@
       "sha512": "sha512-V54PIyDCFl8COnTp9gezNHpUNHk7F9UnerGeZy3UfbnwYvfzbo+ipqQmSgeoESH8e0JvKhRTyQyZquW2EPtCmg==",
       "path": "microsoft.aspnetcore.razor/2.2.0",
       "hashPath": "microsoft.aspnetcore.razor.2.2.0.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.Razor.Design/2.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VLWK+ZtMMNukY6XjxYHc7mz33vkquoEzQJHm/LCF5REVxIaexLr+UTImljRRJBdUDJluDAQwU+59IX0rFDfURA==",
-      "path": "microsoft.aspnetcore.razor.design/2.2.0",
-      "hashPath": "microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/3.1.0": {
       "type": "package",
